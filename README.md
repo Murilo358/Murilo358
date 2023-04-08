@@ -15,4 +15,3 @@
   <img align="center" alt="MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 </div>
-![Snake animation](https://github.com/Murilo358/Murilo358/blob/main/github-contribution-grid-snake.svg)
