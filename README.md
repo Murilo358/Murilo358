@@ -27,6 +27,7 @@
 
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![C++]https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
