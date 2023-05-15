@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo358&layout=compact&hide_border=true&title_color=bb1b1b&text_color=f7f7f7&bg_color=0d1117" />
 </div>
 
-![Snake animation](https://github.com/Murilo358/Murilo358/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Murilo358/Murilo358/dist/github-contribution-grid-snake.svg)
 
 <p align="center">
   
