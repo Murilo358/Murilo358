@@ -21,7 +21,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![LARAVEL](https://img.shields.io/badge/-laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![POSTGRESQL](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
-
+![JAVA](https://img.shields.io/badge/-JAVA-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117)&nbsp;
 
 
 ### Ferramentas:
@@ -32,7 +32,6 @@
 
 ### Conhecimentos básicos:
 
-![JAVA](https://img.shields.io/badge/-JAVA-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117)&nbsp;
 ![C++](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B)&nbsp;
 
   <div align="center">
