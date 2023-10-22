@@ -22,6 +22,7 @@
 ![LARAVEL](https://img.shields.io/badge/-laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![POSTGRESQL](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
 ![JAVA](https://img.shields.io/badge/-JAVA-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117)&nbsp;
+![SPRING BOOT](https://img.shields.io/badge/-SPRINGBOOT-0D1117?style=for-the-badge&logo=SPRING&labelColor=0D1117)&nbsp;
 
 
 ### Ferramentas:
