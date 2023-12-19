@@ -17,25 +17,25 @@
 
 ### Principais habilidades
 
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=transparent)&nbsp;
-![React](https://img.shields.io/badge/-Sass-0D1117?style=for-the-badge&logo=Sass&logoColor=ffb6c1&labelColor=transparent)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
-![LARAVEL](https://img.shields.io/badge/-laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117&textColor=0D1117)&nbsp;
-![POSTGRESQL](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
-![JAVA](https://img.shields.io/badge/-JAVA-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117)&nbsp;
-![SPRING BOOT](https://img.shields.io/badge/-SPRINGBOOT-0D1117?style=for-the-badge&logo=SPRING&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=dbdbda&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=dbdbda&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117&logoColor=dbdbda)&nbsp;
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=dbdbda&labelColor=transparent)&nbsp;
+![React](https://img.shields.io/badge/-Sass-0D1117?style=for-the-badge&logo=Sass&logoColor=dbdbda&labelColor=transparent)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117&logoColor=dbdbda)&nbsp;
+![LARAVEL](https://img.shields.io/badge/-laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117&textColor=0D1117&logoColor=dbdbda)&nbsp;
+![POSTGRESQL](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&logoColor=dbdbda)&nbsp;
+![JAVA](https://img.shields.io/badge/-JAVA-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117&logoColor=dbdbda)&nbsp;
+![SPRING BOOT](https://img.shields.io/badge/-SPRINGBOOT-0D1117?style=for-the-badge&logo=SPRING&labelColor=0D1117&logoColor=dbdbda)&nbsp;
 
 
 ### Ferramentas:
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-0D1117.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PhpStorm](https://img.shields.io/badge/phpstorm-0D1117?style=for-the-badge&logo=phpstorm&logoColor=0D1117&color=black&labelColor=darkorchid)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-0D1117.svg?style=for-the-badge&logo=intellij-idea&logoColor=dbdbda)
+![PhpStorm](https://img.shields.io/badge/phpstorm-0D1117?style=for-the-badge&logo=phpstorm&logoColor=dbdbda&color=0D1117&labelColor=0D1117)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=dbdbda&labelColor=0D1117)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=dbdbda)
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117&logoColor=dbdbda)&nbsp;
 
 ### Conhecimentos básicos:
 
