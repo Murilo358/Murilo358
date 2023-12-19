@@ -39,7 +39,7 @@
 
 ### Conhecimentos básicos:
 
-![C++](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B&logoColor=dbdbda)&nbsp;
+![C++](https://img.shields.io/badge/C++-blue-0D1117.svg?style=flat&logo=c%2B%2B&logoColor=dbdbda&labelColor=0D1117)&nbsp;
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
