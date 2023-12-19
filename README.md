@@ -11,7 +11,7 @@
 
 ### Redes sociais
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-dbdbda?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/murilo-barbosa-da-cunha-6297ba1b6/)](https://www.linkedin.com/in/murilo-barbosa-da-cunha-6297ba1b6/)\
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-dbdbda?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/murilo-barbosa-da-cunha-6297ba1b6/)](https://www.linkedin.com/in/murilo-barbosa-da-cunha-6297ba1b6/)
 
 </div>
 
