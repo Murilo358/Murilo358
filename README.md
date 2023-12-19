@@ -27,6 +27,7 @@
 ![POSTGRESQL](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&logoColor=dbdbda)&nbsp;
 ![JAVA](https://img.shields.io/badge/-JAVA-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117&logoColor=dbdbda)&nbsp;
 ![SPRING BOOT](https://img.shields.io/badge/-SPRINGBOOT-0D1117?style=for-the-badge&logo=SPRING&labelColor=0D1117&logoColor=dbdbda)&nbsp;
+![GIT](https://img.shields.io/badge/git-0D1117.svg?style=for-the-badge&logo=git&logoColor=dbdbda)
 
 
 ### Ferramentas:
@@ -39,7 +40,7 @@
 
 ### Conhecimentos básicos:
 
-![C++](https://img.shields.io/badge/C++-blue-0D1117.svg?style=flat&logo=c%2B%2B&logoColor=dbdbda&labelColor=0D1117)&nbsp;
+![C++](https://img.shields.io/badge/c++-0D1117.svg?style=for-the-badge&logo=c%2B%2B&logoColor=dbdbda&labelColor=0D1117)&nbsp;
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
