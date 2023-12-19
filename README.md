@@ -8,7 +8,11 @@
 </div>
 
 <p align="center">
-  
+
+### Redes sociais
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-dbdbda?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/murilo-barbosa-da-cunha-6297ba1b6/)](https://www.linkedin.com/in/murilo-barbosa-da-cunha-6297ba1b6/)\
+
 </div>
 
 ### Principais habilidades
@@ -27,8 +31,10 @@
 
 ### Ferramentas:
 
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 
 ### Conhecimentos básicos:
