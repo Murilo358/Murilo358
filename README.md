@@ -43,7 +43,7 @@
 ![C++](https://img.shields.io/badge/c++-0D1117.svg?style=for-the-badge&logo=c%2B%2B&logoColor=dbdbda&labelColor=0D1117)&nbsp;
 
   <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Murilo358}/count.svg" /></p> 
 <br></div>
 
