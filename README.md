@@ -33,9 +33,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=dbdbda&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=dbdbda&labelColor=0D1117)&nbsp;
 ![VITE](https://img.shields.io/badge/-vite-0D1117?style=for-the-badge&logo=vite&logoColor=dbdbda&labelColor=0D1117)&nbsp;
-![GIT](https://img.shields.io/badge/git-0D1117.svg?style=for-the-badge&logo=git&logoColor=dbdbda)
-
-
+![GIT](https://img.shields.io/badge/git-0D1117.svg?style=for-the-badge&logo=git&logoColor=dbdbda)&nbsp;
 ![POSTGRESQL](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&logoColor=dbdbda)&nbsp;
 
 ### Ferramentas:
