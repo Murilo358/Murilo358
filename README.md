@@ -22,8 +22,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117&logoColor=dbdbda)&nbsp;
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=dbdbda&labelColor=transparent)&nbsp;
 ![RABBITMQ](https://img.shields.io/badge/-RabbitMq-0D1117?style=for-the-badge&logo=rabbitmq&logoColor=dbdbda&labelColor=0D1117)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117&logoColor=dbdbda)&nbsp;
-![LARAVEL](https://img.shields.io/badge/-laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117&textColor=0D1117&logoColor=dbdbda)&nbsp; 
 ![SPRING SECURITY](https://img.shields.io/badge/-Spring%20Security-0D1117?style=for-the-badge&logo=springsecurity&logoColor=dbdbda&labelColor=0D1117)&nbsp;
 ![JUNIT](https://img.shields.io/badge/-junit5-0D1117?style=for-the-badge&logo=junit5&logoColor=dbdbda&labelColor=0D1117)&nbsp;
 ![FLYWAY](https://img.shields.io/badge/-flyway-0D1117?style=for-the-badge&logo=flyway&logoColor=dbdbda&labelColor=0D1117)&nbsp;
@@ -44,9 +42,11 @@
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=dbdbda)
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117&logoColor=dbdbda)&nbsp;
 
-### Conhecimentos básicos:
+### Outras habilidades
 
-![C++](https://img.shields.io/badge/c++-0D1117.svg?style=for-the-badge&logo=c%2B%2B&logoColor=dbdbda&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/C%23-0D1117.svg?style=for-the-badge&logo=c%2B%2B&logoColor=dbdbda&labelColor=0D1117)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117&logoColor=dbdbda)&nbsp;
+![LARAVEL](https://img.shields.io/badge/-laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117&textColor=0D1117&logoColor=dbdbda)&nbsp; 
 
   <div align="center">
 <br><p align="centre"><b>Visitantes</b></p>  
