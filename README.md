@@ -34,6 +34,12 @@
 ![GIT](https://img.shields.io/badge/git-0D1117.svg?style=for-the-badge&logo=git&logoColor=dbdbda)&nbsp;
 ![POSTGRESQL](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&logoColor=dbdbda)&nbsp;
 
+### Outras habilidades
+
+![C#](https://img.shields.io/badge/C%23-0D1117.svg?style=for-the-badge&logo=c%2B%2B&logoColor=dbdbda&labelColor=0D1117)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117&logoColor=dbdbda)&nbsp;
+![LARAVEL](https://img.shields.io/badge/-laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117&textColor=0D1117&logoColor=dbdbda)&nbsp; 
+
 ### Ferramentas:
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-0D1117.svg?style=for-the-badge&logo=intellij-idea&logoColor=dbdbda)
@@ -41,12 +47,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=dbdbda&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=dbdbda)
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117&logoColor=dbdbda)&nbsp;
-
-### Outras habilidades
-
-![C#](https://img.shields.io/badge/C%23-0D1117.svg?style=for-the-badge&logo=c%2B%2B&logoColor=dbdbda&labelColor=0D1117)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117&logoColor=dbdbda)&nbsp;
-![LARAVEL](https://img.shields.io/badge/-laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117&textColor=0D1117&logoColor=dbdbda)&nbsp; 
 
   <div align="center">
 <br><p align="centre"><b>Visitantes</b></p>  
