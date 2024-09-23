@@ -27,7 +27,6 @@
 ![FLYWAY](https://img.shields.io/badge/-flyway-0D1117?style=for-the-badge&logo=flyway&logoColor=dbdbda&labelColor=0D1117)&nbsp;
 ![MUI](https://img.shields.io/badge/-Material%20ui-0D1117?style=for-the-badge&logo=mui&logoColor=dbdbda&labelColor=0D1117)&nbsp;
 ![TAILWIND](https://img.shields.io/badge/-Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=dbdbda&labelColor=0D1117)&nbsp;
-![THYMELEAF](https://img.shields.io/badge/-thymeleaf-0D1117?style=for-the-badge&logo=thymeleaf&logoColor=dbdbda&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=dbdbda&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=dbdbda&labelColor=0D1117)&nbsp;
 ![VITE](https://img.shields.io/badge/-vite-0D1117?style=for-the-badge&logo=vite&logoColor=dbdbda&labelColor=0D1117)&nbsp;
@@ -39,6 +38,7 @@
 ![C#](https://img.shields.io/badge/C%23-0D1117.svg?style=for-the-badge&logo=c%2B%2B&logoColor=dbdbda&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117&logoColor=dbdbda)&nbsp;
 ![LARAVEL](https://img.shields.io/badge/-laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117&textColor=0D1117&logoColor=dbdbda)&nbsp; 
+![THYMELEAF](https://img.shields.io/badge/-thymeleaf-0D1117?style=for-the-badge&logo=thymeleaf&logoColor=dbdbda&labelColor=0D1117)&nbsp;
 
 ### Ferramentas:
 
