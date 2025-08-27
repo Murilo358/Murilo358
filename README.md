@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dbdbda&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=dbdbda&size=35&center=true&vCenter=true&width=1000&lines=Hello+world,+My+name+is+Murilo+Barbosa;I'm+a+Fullstack+Developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=dbdbda&size=35&center=true&vCenter=true&width=1000&lines=Hello+world,+My+name+is+Murilo+Barbosa;I'm+a+Backend+Developer;)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Murilo358&show_icons=true&count_private=true&hide_border=true&title_color=dbdbda&icon_color=dbdbda&text_color=c9d1d9&bg_color=0d1117" alt="Murilo Barbosa github stats" /> 
@@ -19,25 +19,28 @@
 
 ![JAVA](https://img.shields.io/badge/-JAVA-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117&logoColor=dbdbda)&nbsp;
 ![SPRING BOOT](https://img.shields.io/badge/-SPRINGBOOT-0D1117?style=for-the-badge&logo=SPRING&labelColor=0D1117&logoColor=dbdbda)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117&logoColor=dbdbda)&nbsp;
-![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=dbdbda&labelColor=transparent)&nbsp;
 ![RABBITMQ](https://img.shields.io/badge/-RabbitMq-0D1117?style=for-the-badge&logo=rabbitmq&logoColor=dbdbda&labelColor=0D1117)&nbsp;
 ![SPRING SECURITY](https://img.shields.io/badge/-Spring%20Security-0D1117?style=for-the-badge&logo=springsecurity&logoColor=dbdbda&labelColor=0D1117)&nbsp;
 ![JUNIT](https://img.shields.io/badge/-junit5-0D1117?style=for-the-badge&logo=junit5&logoColor=dbdbda&labelColor=0D1117)&nbsp;
 ![FLYWAY](https://img.shields.io/badge/-flyway-0D1117?style=for-the-badge&logo=flyway&logoColor=dbdbda&labelColor=0D1117)&nbsp;
-![MUI](https://img.shields.io/badge/-Material%20ui-0D1117?style=for-the-badge&logo=mui&logoColor=dbdbda&labelColor=0D1117)&nbsp;
-![TAILWIND](https://img.shields.io/badge/-Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=dbdbda&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=dbdbda&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=dbdbda&labelColor=0D1117)&nbsp;
-![VITE](https://img.shields.io/badge/-vite-0D1117?style=for-the-badge&logo=vite&logoColor=dbdbda&labelColor=0D1117)&nbsp;
 ![GIT](https://img.shields.io/badge/git-0D1117.svg?style=for-the-badge&logo=git&logoColor=dbdbda)&nbsp;
 ![POSTGRESQL](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&logoColor=dbdbda)&nbsp;
+![Docker](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&logoColor=dbdbda)&nbsp;
+![Kafka](https://img.shields.io/badge/-kafka-0D1117?style=for-the-badge&logo=apache-kafka&labelColor=0D1117&logoColor=dbdbda)&nbsp;
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-0D1117.svg?logo=aws&labelColor=0D1117&logoColor=dbdbda)&nbsp;
 
 ### Other skills
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117&logoColor=dbdbda)&nbsp;
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=dbdbda&labelColor=transparent)&nbsp;
+![MUI](https://img.shields.io/badge/-Material%20ui-0D1117?style=for-the-badge&logo=mui&logoColor=dbdbda&labelColor=0D1117)&nbsp;
+![TAILWIND](https://img.shields.io/badge/-Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=dbdbda&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=dbdbda&labelColor=0D1117)&nbsp;
+![VITE](https://img.shields.io/badge/-vite-0D1117?style=for-the-badge&logo=vite&logoColor=dbdbda&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=dbdbda&labelColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-0D1117.svg?style=for-the-badge&logo=c%2B%2B&logoColor=dbdbda&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117&logoColor=dbdbda)&nbsp;
-![LARAVEL](https://img.shields.io/badge/-laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117&textColor=0D1117&logoColor=dbdbda)&nbsp; 
+![LARAVEL](https://img.shields.io/badge/-laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117&textColor=0D1117&logoColor=dbdbda)&nbsp;
 ![THYMELEAF](https://img.shields.io/badge/-thymeleaf-0D1117?style=for-the-badge&logo=thymeleaf&logoColor=dbdbda&labelColor=0D1117)&nbsp;
 
 ### Tools:
