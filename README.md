@@ -27,7 +27,6 @@
 ![POSTGRESQL](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&logoColor=dbdbda)&nbsp;
 ![Docker](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&logoColor=dbdbda)&nbsp;
 ![Kafka](https://img.shields.io/badge/-kafka-0D1117?style=for-the-badge&logo=apache-kafka&labelColor=0D1117&logoColor=dbdbda)&nbsp;
-![AWS](https://custom-icon-badges.demolab.com/badge/AWS-0D1117.svg?logo=aws&labelColor=0D1117&logoColor=dbdbda)&nbsp;
 
 ### Other skills
 
@@ -42,6 +41,10 @@
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117&logoColor=dbdbda)&nbsp;
 ![LARAVEL](https://img.shields.io/badge/-laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117&textColor=0D1117&logoColor=dbdbda)&nbsp;
 ![THYMELEAF](https://img.shields.io/badge/-thymeleaf-0D1117?style=for-the-badge&logo=thymeleaf&logoColor=dbdbda&labelColor=0D1117)&nbsp;
+
+### Studying
+
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-0D1117.svg?logo=aws&labelColor=0D1117&logoColor=dbdbda)&nbsp;
 
 ### Tools:
 
